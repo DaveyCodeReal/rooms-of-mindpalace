@@ -171,6 +171,7 @@ roomContents1 = [
 'thousands of coloring books and colored pencils in a chest',             
 'a giant wooden dragon',                 
 'a nautical-themed coffee shop',
+'7,876 top hats',  
 'a very narrow hallway',
 'a dining room with a table piled with spaghetti',
 'a dining room with a table piled with vegan pizza rolls',
